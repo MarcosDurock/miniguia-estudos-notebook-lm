@@ -33,9 +33,9 @@ Link direto para o arquivo PDF: https://cfc.org.br/wp-content/uploads/2018/04/1_
 4. Lei nº 6.404/1976 (Lei das Sociedades por Ações):
 Videoaula temática (YouTube - Contabilidade Facilitada): https://www.youtube.com/watch?v=iFat8CFaIEQ
 Texto integral da Lei no Portal do Planalto: https://www.planalto.gov.br/ccivil_03/leis/l6404consol.htm
-5. Relatório de Pesquisa: Contabilidade de Empresas no Brasil:
-Documento em formato texto salvo diretamente na sua caderneta com a síntese de normas, vídeos e podcasts
-.
+
+Relatório de Pesquisa: Contabilidade de Empresas no Brasil:
+
 Sérgio de Iudícibus: Guia de Estudos e Referências Contábeis:
 Documento em formato texto com a curadoria das obras e planos de estudo baseados no Prof. Sérgio de Iudícibus
 .
