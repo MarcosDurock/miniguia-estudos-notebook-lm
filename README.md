@@ -20,3 +20,23 @@ Para colocar tudo isso em prática, faz-se necessario que voce siba exatamente q
 > Antes da entrega de seu material final faça uma análise para certificar-se de que todos os quesitos de boas praticas contidos neste documento de pesquisa corroboram com as finalidades que o seu trabalho exige.
 
 ---
+
+Fontes:
+
+1. CPC PME: Contabilidade para Pequenas e Médias Empresas (Ethics Solução Contábil):
+Link do artigo: https://ethicssolucaocontabil.com.br/cpc-pme-contabilidade-para-pequenas-e-medias-empresas/
+Fonte do artigo original: https://pmenews.com.br/artigo/cpc-pme-contabilidade-para-pequenas-e-medias-empresas/
+2. Pronunciamento Técnico CPC 00 (R2) - Estrutura Conceitual para Relatório Financeiro:
+Link no CPC: https://www.cpc.org.br/CPC/Documentos-Emitidos/Pronunciamentos/Pronunciamento?Id=80
+3. Manual de Contabilidade do Sistema CFC/CRCs (PDF Oficial):
+Link direto para o arquivo PDF: https://cfc.org.br/wp-content/uploads/2018/04/1_manual_cont.pdf
+4. Lei nº 6.404/1976 (Lei das Sociedades por Ações):
+Videoaula temática (YouTube - Contabilidade Facilitada): https://www.youtube.com/watch?v=iFat8CFaIEQ
+Texto integral da Lei no Portal do Planalto: https://www.planalto.gov.br/ccivil_03/leis/l6404consol.htm
+5. Relatório de Pesquisa: Contabilidade de Empresas no Brasil:
+Documento em formato texto salvo diretamente na sua caderneta com a síntese de normas, vídeos e podcasts
+.
+Sérgio de Iudícibus: Guia de Estudos e Referências Contábeis:
+Documento em formato texto com a curadoria das obras e planos de estudo baseados no Prof. Sérgio de Iudícibus
+.
+
